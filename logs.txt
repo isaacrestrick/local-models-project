@@ -1,0 +1,153 @@
+Q2_K
+
+llama_print_timings:        load time =     837.97 ms
+llama_print_timings:      sample time =       2.82 ms /    32 runs   (    0.09 ms per token, 11331.44 tokens per second)
+llama_print_timings: prompt eval time =     837.93 ms /    12 tokens (   69.83 ms per token,    14.32 tokens per second)
+llama_print_timings:        eval time =    2173.32 ms /    31 runs   (   70.11 ms per token,    14.26 tokens per second)
+llama_print_timings:       total time =    3056.24 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-96c1fd98-b424-4e56-bbc1-73130c920398', 'object': 'chat.completion', 'created': 1701496258, 'model': 'models/llama-2-7b-chat.Q2_K.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '  Hello! It\'s nice to meet you. Unterscheidung between "hi" and "hey" depends on the context and the level of formality you'}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =    2762.81 ms
+llama_print_timings:      sample time =       2.97 ms /    32 runs   (    0.09 ms per token, 10778.04 tokens per second)
+llama_print_timings: prompt eval time =    2762.77 ms /    12 tokens (  230.23 ms per token,     4.34 tokens per second)
+llama_print_timings:        eval time =    2521.08 ms /    31 runs   (   81.33 ms per token,    12.30 tokens per second)
+llama_print_timings:       total time =    5330.00 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-211a9c5f-37ec-4d18-9bab-0a23f5e83cf0', 'object': 'chat.completion', 'created': 1701496413, 'model': 'models/llama-2-7b-chat.Q2_K.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '  Hello! It\'s nice to meet you. Unterscheidung between "hi" and "hey" depends on the context and the level of formality you'}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     927.19 ms
+llama_print_timings:      sample time =       3.02 ms /    32 runs   (    0.09 ms per token, 10599.54 tokens per second)
+llama_print_timings: prompt eval time =     927.15 ms /    12 tokens (   77.26 ms per token,    12.94 tokens per second)
+llama_print_timings:        eval time =    2302.58 ms /    31 runs   (   74.28 ms per token,    13.46 tokens per second)
+llama_print_timings:       total time =    3276.38 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-e14ebdbe-dc31-433c-8456-7e050589569b', 'object': 'chat.completion', 'created': 1701496456, 'model': 'models/llama-2-7b-chat.Q2_K.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '  Hello! It\'s nice to meet you. Unterscheidung between "hi" and "hey" depends on the context and the level of formality you'}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+---------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     871.75 ms
+llama_print_timings:      sample time =       2.92 ms /    32 runs   (    0.09 ms per token, 10966.42 tokens per second)
+llama_print_timings: prompt eval time =     871.72 ms /    12 tokens (   72.64 ms per token,    13.77 tokens per second)
+llama_print_timings:        eval time =    2436.62 ms /    31 runs   (   78.60 ms per token,    12.72 tokens per second)
+llama_print_timings:       total time =    3354.26 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-fb97276d-89cc-4894-8978-765a546ffae7', 'object': 'chat.completion', 'created': 1701496481, 'model': 'models/llama-2-7b-chat.Q2_K.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '  Hello! It\'s nice to meet you. Unterscheidung between "hi" and "hey" depends on the context and the level of formality you'}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     928.69 ms
+llama_print_timings:      sample time =       2.89 ms /    32 runs   (    0.09 ms per token, 11061.18 tokens per second)
+llama_print_timings: prompt eval time =     928.65 ms /    12 tokens (   77.39 ms per token,    12.92 tokens per second)
+llama_print_timings:        eval time =    2483.92 ms /    31 runs   (   80.13 ms per token,    12.48 tokens per second)
+llama_print_timings:       total time =    3458.74 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-2c454c2c-c090-439d-8cce-464757b857bd', 'object': 'chat.completion', 'created': 1701496503, 'model': 'models/llama-2-7b-chat.Q2_K.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': '  Hello! It\'s nice to meet you. Unterscheidung between "hi" and "hey" depends on the context and the level of formality you'}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+
+Q3_K_M
+
+llama_print_timings:        load time =    4453.05 ms
+llama_print_timings:      sample time =       3.04 ms /    32 runs   (    0.09 ms per token, 10543.66 tokens per second)
+llama_print_timings: prompt eval time =    4453.00 ms /    12 tokens (  371.08 ms per token,     2.69 tokens per second)
+llama_print_timings:        eval time =    2165.46 ms /    31 runs   (   69.85 ms per token,    14.32 tokens per second)
+llama_print_timings:       total time =    6664.30 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-4f8445dc-7787-4f86-831f-8d6488a3ddd2', 'object': 'chat.completion', 'created': 1701496608, 'model': 'models/llama-2-7b-chat.Q3_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Hi is a common greeting used to acknowledge someone's presence, and it can be used in"}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     773.47 ms
+llama_print_timings:      sample time =       2.98 ms /    32 runs   (    0.09 ms per token, 10731.05 tokens per second)
+llama_print_timings: prompt eval time =     773.44 ms /    12 tokens (   64.45 ms per token,    15.52 tokens per second)
+llama_print_timings:        eval time =    2114.24 ms /    31 runs   (   68.20 ms per token,    14.66 tokens per second)
+llama_print_timings:       total time =    2933.62 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-deb57645-2837-44a3-8a56-7d9a08922f8c', 'object': 'chat.completion', 'created': 1701496630, 'model': 'models/llama-2-7b-chat.Q3_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Hi is a common greeting used to acknowledge someone's presence, and it can be used in"}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     954.61 ms
+llama_print_timings:      sample time =       3.03 ms /    32 runs   (    0.09 ms per token, 10575.02 tokens per second)
+llama_print_timings: prompt eval time =     954.56 ms /    12 tokens (   79.55 ms per token,    12.57 tokens per second)
+llama_print_timings:        eval time =    2117.09 ms /    31 runs   (   68.29 ms per token,    14.64 tokens per second)
+llama_print_timings:       total time =    3117.76 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-708ae5e8-fd2d-4944-9a8f-c3cba0efe9c5', 'object': 'chat.completion', 'created': 1701496649, 'model': 'models/llama-2-7b-chat.Q3_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Hi is a common greeting used to acknowledge someone's presence, and it can be used in"}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     834.14 ms
+llama_print_timings:      sample time =       2.97 ms /    32 runs   (    0.09 ms per token, 10788.94 tokens per second)
+llama_print_timings: prompt eval time =     834.10 ms /    12 tokens (   69.51 ms per token,    14.39 tokens per second)
+llama_print_timings:        eval time =    2190.96 ms /    31 runs   (   70.68 ms per token,    14.15 tokens per second)
+llama_print_timings:       total time =    3071.14 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-a516b9d7-6bc6-43d0-a8ca-517b12955744', 'object': 'chat.completion', 'created': 1701496678, 'model': 'models/llama-2-7b-chat.Q3_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Hi is a common greeting used to acknowledge someone's presence, and it can be used in"}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =     787.75 ms
+llama_print_timings:      sample time =       2.90 ms /    32 runs   (    0.09 ms per token, 11045.91 tokens per second)
+llama_print_timings: prompt eval time =     787.72 ms /    12 tokens (   65.64 ms per token,    15.23 tokens per second)
+llama_print_timings:        eval time =    2137.42 ms /    31 runs   (   68.95 ms per token,    14.50 tokens per second)
+llama_print_timings:       total time =    2970.43 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-478862aa-e333-4eda-ba60-4905fece34da', 'object': 'chat.completion', 'created': 1701496705, 'model': 'models/llama-2-7b-chat.Q3_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. My name is LLaMA, I'm a large language model trained by a team of researcher"}, 'finish_reason': 'length'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 32, 'total_tokens': 44}}
+----------------------------------------------------------------------------------------------------------------------
+
+Q4_K_M
+
+llama_print_timings:        load time =    5108.76 ms
+llama_print_timings:      sample time =       2.40 ms /    27 runs   (    0.09 ms per token, 11245.31 tokens per second)
+llama_print_timings: prompt eval time =    5108.71 ms /    12 tokens (  425.73 ms per token,     2.35 tokens per second)
+llama_print_timings:        eval time =    1443.02 ms /    26 runs   (   55.50 ms per token,    18.02 tokens per second)
+llama_print_timings:       total time =    6590.50 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-e8c757ae-0e59-4004-9bfa-779090aa40bb', 'object': 'chat.completion', 'created': 1701496785, 'model': 'models/llama-2-7b-chat.Q4_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+
+llama_print_timings:        load time =    2207.15 ms
+llama_print_timings:      sample time =       2.38 ms /    27 runs   (    0.09 ms per token, 11339.77 tokens per second)
+llama_print_timings: prompt eval time =    2207.07 ms /    12 tokens (  183.92 ms per token,     5.44 tokens per second)
+llama_print_timings:        eval time =    1446.63 ms /    26 runs   (   55.64 ms per token,    17.97 tokens per second)
+llama_print_timings:       total time =    3691.69 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-8cb83eda-eabd-44cc-b468-9ff35881db43', 'object': 'chat.completion', 'created': 1701496807, 'model': 'models/llama-2-7b-chat.Q4_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+
+llama_print_timings:        load time =    1738.54 ms
+llama_print_timings:      sample time =       2.36 ms /    27 runs   (    0.09 ms per token, 11455.24 tokens per second)
+llama_print_timings: prompt eval time =    1738.50 ms /    12 tokens (  144.87 ms per token,     6.90 tokens per second)
+llama_print_timings:        eval time =    1656.94 ms /    26 runs   (   63.73 ms per token,    15.69 tokens per second)
+llama_print_timings:       total time =    3433.16 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-27e66684-25b2-4942-bcfa-9e8ef091495c', 'object': 'chat.completion', 'created': 1701496832, 'model': 'models/llama-2-7b-chat.Q4_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+
+llama_print_timings:        load time =    1066.09 ms
+llama_print_timings:      sample time =       2.42 ms /    27 runs   (    0.09 ms per token, 11143.21 tokens per second)
+llama_print_timings: prompt eval time =    1066.04 ms /    12 tokens (   88.84 ms per token,    11.26 tokens per second)
+llama_print_timings:        eval time =    1425.40 ms /    26 runs   (   54.82 ms per token,    18.24 tokens per second)
+llama_print_timings:       total time =    2529.94 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-dcb55b95-9888-4c52-bfeb-eb4f7671b922', 'object': 'chat.completion', 'created': 1701496853, 'model': 'models/llama-2-7b-chat.Q4_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+
+llama_print_timings:        load time =     807.89 ms
+llama_print_timings:      sample time =       2.34 ms /    27 runs   (    0.09 ms per token, 11553.27 tokens per second)
+llama_print_timings: prompt eval time =     807.85 ms /    12 tokens (   67.32 ms per token,    14.85 tokens per second)
+llama_print_timings:        eval time =    1443.28 ms /    26 runs   (   55.51 ms per token,    18.01 tokens per second)
+llama_print_timings:       total time =    2289.28 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-83392715-6f38-45da-ba1b-b9223dd832c5', 'object': 'chat.completion', 'created': 1701496871, 'model': 'models/llama-2-7b-chat.Q4_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+
+Q5_K_M
+
+llama_print_timings:        load time =    7367.90 ms
+llama_print_timings:      sample time =       2.16 ms /    19 runs   (    0.11 ms per token,  8800.37 tokens per second)
+llama_print_timings: prompt eval time =    7367.85 ms /    12 tokens (  613.99 ms per token,     1.63 tokens per second)
+llama_print_timings:        eval time =    8958.84 ms /    18 runs   (  497.71 ms per token,     2.01 tokens per second)
+llama_print_timings:       total time =   16364.07 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-63248482-f775-4a0f-bafe-b1aa91b4192d', 'object': 'chat.completion', 'created': 1701496972, 'model': 'models/llama-2-7b-chat.Q5_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. How can I help you today?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 18, 'total_tokens': 30}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =    4908.30 ms
+llama_print_timings:      sample time =       2.76 ms /    27 runs   (    0.10 ms per token,  9771.99 tokens per second)
+llama_print_timings: prompt eval time =    4908.24 ms /    12 tokens (  409.02 ms per token,     2.44 tokens per second)
+llama_print_timings:        eval time =    7004.23 ms /    26 runs   (  269.39 ms per token,     3.71 tokens per second)
+llama_print_timings:       total time =   11962.57 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-de85d4e7-ff5e-46b8-89ac-1f5dfae1f8f1', 'object': 'chat.completion', 'created': 1701497002, 'model': 'models/llama-2-7b-chat.Q5_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =    5158.25 ms
+llama_print_timings:      sample time =       2.99 ms /    27 runs   (    0.11 ms per token,  9033.12 tokens per second)
+llama_print_timings: prompt eval time =    5158.22 ms /    12 tokens (  429.85 ms per token,     2.33 tokens per second)
+llama_print_timings:        eval time =    5493.86 ms /    26 runs   (  211.30 ms per token,     4.73 tokens per second)
+llama_print_timings:       total time =   10705.40 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-aa26d5bc-5b33-4ae8-9c7a-8d93225b4b86', 'object': 'chat.completion', 'created': 1701497036, 'model': 'models/llama-2-7b-chat.Q5_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =    4725.28 ms
+llama_print_timings:      sample time =       2.71 ms /    27 runs   (    0.10 ms per token,  9963.10 tokens per second)
+llama_print_timings: prompt eval time =    4724.29 ms /    12 tokens (  393.69 ms per token,     2.54 tokens per second)
+llama_print_timings:        eval time =    3071.73 ms /    26 runs   (  118.14 ms per token,     8.46 tokens per second)
+llama_print_timings:       total time =    7837.76 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-8f7979fa-b3d8-427c-8c0f-4ce6bee24e33', 'object': 'chat.completion', 'created': 1701497063, 'model': 'models/llama-2-7b-chat.Q5_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
+llama_print_timings:        load time =    3652.64 ms
+llama_print_timings:      sample time =       2.69 ms /    27 runs   (    0.10 ms per token, 10033.44 tokens per second)
+llama_print_timings: prompt eval time =    3652.60 ms /    12 tokens (  304.38 ms per token,     3.29 tokens per second)
+llama_print_timings:        eval time =    5965.05 ms /    26 runs   (  229.42 ms per token,     4.36 tokens per second)
+llama_print_timings:       total time =    9664.78 ms
+Received message: {'message': 'hi'}, Response: {'id': 'chatcmpl-7dd99b23-9a72-462f-be89-fd26d6e59d4a', 'object': 'chat.completion', 'created': 1701497094, 'model': 'models/llama-2-7b-chat.Q5_K_M.gguf', 'choices': [{'index': 0, 'message': {'role': 'assistant', 'content': "  Hello! It's nice to meet you. Is there something I can help you with or would you like to chat?"}, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 12, 'completion_tokens': 26, 'total_tokens': 38}}
+----------------------------------------------------------------------------------------------------------------------
